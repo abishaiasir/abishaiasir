@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abishaiasir
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently pursuing my bachelor's degree in mechanical engineering at the Tun Hussein Onn University of Malaysia.
+- 🌱 I’m currently pursuing my bachelor's degree in mechanical engineering at the Universiti Tun Hussein Onn Malaysia.
 - 💞️ I’m looking to collaborate on Robots
 - 📫 How to reach me abishaixasir0615@gmail.com
 
