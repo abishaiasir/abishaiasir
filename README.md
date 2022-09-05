@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abishaiasir
+- 👋 Hi, I’m Abishai
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently pursuing my bachelor's degree in mechanical engineering at the Universiti Tun Hussein Onn Malaysia.
 - 💞️ I’m looking to collaborate on Robots
